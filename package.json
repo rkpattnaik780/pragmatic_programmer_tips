@@ -9,9 +9,7 @@
 	"categories": [
 		"Other"
 	],
-	"activationEvents": [
-        "onCommand:pragmaticprogrammertips.helloWorld"
-	],
+	"activationEvents": ["*"],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
